@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(241, 233, 233);
+    color: rgb(240, 248, 255,.5);
+    border-color: aliceblue;
+}
+div{
+    background-color: rgb(242, 238, 238);
+}
+h3{
+text-align: center;
+background-color: rgba(87, 123, 253, );
+opacity: 0.9;
+}
+h5{
+    color: black;
+    text-align: center;
+background-color: white;
+
+}
+.card-img-top{
+    background-color: white;
+}
+.card-body{
+    background-color:  white;
+}
+
+.col-md-4{
+    border-color: aliceblue;
+}
+center{
+    padding: 10px;
+   
+}
