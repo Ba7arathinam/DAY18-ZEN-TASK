@@ -18,6 +18,7 @@ function foo(data1){
          <h5 class="card-title">Capital:${data1[i].capital}</h5>
          <h5 class="card-title">Region:${data1[i].region}</h5>
          <h5 class="card-title">Country Code:${data1[i].alpha2Code}</h5>
+          <h5 class="card-title">lat and long:${data1[i].latlng}</h5>
         <center> <a href="https://openweathermap.org/" class="btn btn-primary">Check Weather</a> </center>
          </div>
        </div>
